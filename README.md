@@ -1,2 +1,2 @@
-# autofamika
+# autofarmika
 Automatizacija za farmu
